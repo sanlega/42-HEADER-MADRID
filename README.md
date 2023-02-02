@@ -1,2 +1,12 @@
-# 42-header-vim-friendly
-42 header plugin for vin with the options to change the email and domain.
+### 1.
+Copy `stdheader2.vim` in your `~/.vim/plugin`, (if you don't have it RTFM!) or use your favorite plugin manager. Then set the user and mail variables as explained below.
+
+#### 2.
+Edit the  `~/.vimrc` adding your intra ID and your EMAIL:
+
+```vim
+let g:user42 = 'yourLogin'
+let g:mail42 = 'yourLogin@student.42.fr'
+```
+
+# UP TO YOU gl
