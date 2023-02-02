@@ -8,7 +8,7 @@ Edit the  `~/.vimrc` adding your intra ID and your EMAIL:
 
 ```vim
 let g:user42 = 'yourLogin'
-let g:mail42 = 'yourLogin@student.42.fr'
+let g:mail42 = 'yourLogin@student.42madrid.com'
 ```
 
 Y recuerda: Vigila los cordones azules y baila una jota si cuando llegan estás con este archivo. Disimula mucho y muy bien. Di que lo has hecho tú y si te preguntan como IMPROVISA. 
