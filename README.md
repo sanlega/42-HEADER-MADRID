@@ -1,4 +1,4 @@
-# HEADER 42 
+# HEADER 42 MADRID
 ### 1.
 Copy `stdheader2.vim` in your `~/.vim/plugin`, (if you don't have it RTFM!) or use your favorite plugin manager. Then set the user and mail variables as explained below.
 
