@@ -36,4 +36,4 @@ Functions in the script handle various aspects of the header, such as:
 
 If you would like to contribute to this project, feel free to create a fork of the repository and submit a pull request with your changes. We appreciate your help in making this plugin even better! 💪
 
-If you need help, feel free to contact me on Slack! 📩 My login is **slegaris** . 😊
+If you need help, feel free to contact me on Slack! 📩 My login is **slegaris** . 😊 not if you are a piscineer
